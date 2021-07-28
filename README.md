@@ -1,2 +1,3 @@
 # pac-man
-This is a group repository for 2805ICT 
+This is a group repository for 2805ICT
+First commit  
